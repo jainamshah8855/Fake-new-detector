@@ -1,0 +1,7 @@
+.idea/
+__pycache__/
+*.pyc
+.venv/
+data/*.csv
+model.joblib
+confusion_matrix.png
